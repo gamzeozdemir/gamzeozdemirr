@@ -1,0 +1,7 @@
+C:\Users\gamze\OneDrive\Masaüstü\fibonacci__\fibonacci__\bin\Debug\fibonacci__.exe.config
+C:\Users\gamze\OneDrive\Masaüstü\fibonacci__\fibonacci__\bin\Debug\fibonacci__.exe
+C:\Users\gamze\OneDrive\Masaüstü\fibonacci__\fibonacci__\bin\Debug\fibonacci__.pdb
+C:\Users\gamze\OneDrive\Masaüstü\fibonacci__\fibonacci__\obj\Debug\fibonacci__.csproj.AssemblyReference.cache
+C:\Users\gamze\OneDrive\Masaüstü\fibonacci__\fibonacci__\obj\Debug\fibonacci__.csproj.CoreCompileInputs.cache
+C:\Users\gamze\OneDrive\Masaüstü\fibonacci__\fibonacci__\obj\Debug\fibonacci__.exe
+C:\Users\gamze\OneDrive\Masaüstü\fibonacci__\fibonacci__\obj\Debug\fibonacci__.pdb
